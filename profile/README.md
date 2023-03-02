@@ -1,1 +1,1 @@
-You're probably looking for https://github.com/balancer
+Balancer Labs contributes to the [Balancer](https://github.com/balancer) Protocol
